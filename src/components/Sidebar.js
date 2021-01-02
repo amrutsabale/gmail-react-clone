@@ -6,7 +6,7 @@ import SidebarOption from './SidebarOption'
 
 function Sidebar() {
     return (
-        <div className="sidebr">
+        <div className="sidebar">
             <Button
                 startIcon={<Add fontSize="large" />}
                 className="sidebar_compose"
